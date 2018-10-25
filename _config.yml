@@ -1,5 +1,5 @@
-author: yanm1ng # 作者
-description: yanm1ng's blog
+author: wangyongtao # 作者
+description: wangyongtao's blog
 keyword: hexo-theme, vuejs
 favicon: 
 
@@ -7,32 +7,33 @@ excerpt_link: Read more
 
 menu:
  Home: /
- Tags: /tags/
- Archives: /archives/
- Projects: /project/
- About: /about/
+ Tags: /tags
+ Categories: /categories
+ Archives: /archives
+ Project: /project
+ About: /about
 
 # highlight
 highlight:
   tomorrow
 
 # catalog
-catalog: true
+catalog: false # 打赏开关
 
 # donate
-donate: true
+donate: false #侧边目录开关
 
 # qrcode
-qrcode: true
+qrcode: true #二维码分享开关
 
 # comment
 # you can set gitment, uyan or disqus
 
-comment: gitment
+# comment: gitment #评论
 
 # gitment config
-gitment_owner: yanm1ng
-gitment_repo: yanm1ng.github.io
+gitment_owner: taoaiyi1108
+gitment_repo: taoaiyi1108.github.io
 gitment_oauth_id: 0f87e490e00ee3fd87ef
 gitment_oauth_secret: 4a9d2b148e7971c2201ad12131ce8bf8159ccd2e
 
@@ -43,16 +44,18 @@ baidu_id:
 # disqus config
 disqus_shortname: 
 
-about: 
-  banner: http://file.muyutech.com/about.jpg
-  avatar: https://avatars3.githubusercontent.com/u/16443628?v=3&s=460
-  description: "The end is always near."
-  weibo_username: yanm1ng
-  twitter_username: yanm1ng
-  github_username: yanm1ng
-  zhihu_username: yummy1121
-  douban_username: yanm1ng
+about:
+  banner: http://img.pconline.com.cn/images/upload/upc/tx/wallpaper/1311/07/c1/28412984_1383811625819.jpg
+  avatar: http://p040q6o73.bkt.clouddn.com/me.jpg
+  description: "Try everthing，never give up。"
+  weibo_username: 6504255900
+  #twitter_username: yanm1ng
+  github_username: taoaiyi1108
+  #zhihu_username: yummy1121
+  #douban_username: yanm1ng
   linkedin_username:
+  gitee_username: taoaiyi1108
+  email_username: qq_173128525@live.com
 
 # MathJax Support
 mathjax:
